@@ -11,6 +11,6 @@ int main(void)
 		printf("%d",a);	
 	else if(a%3==1)
 		printf("%d",a-1);
-			
+			//haha
 	return 0;
 }
